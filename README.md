@@ -4,8 +4,8 @@
 A go client for the Awqat Salah API. 
 
 
-[![MIT License](https://img.shields.io/badge/License-MIT-orange.svg)](https://choosealicense.com/licenses/mit/)
-[![Release Version](https://img.shields.io/github/v/release/cangiremir/awqatsalah-go)](https://img.shields.io/github/v/release/cangiremir/awqatsalah-go)
+[![MIT License](https://img.shields.io/badge/License-MIT-orange.svg)](https://github.com/cangiremir/awqatsalah-go/blob/main/LICENSE)
+[![Release Version](https://img.shields.io/github/v/release/cangiremir/awqatsalah-go)](https://github.com/cangiremir/awqatsalah-go/releases/tag/v0.1.0)
 
 ## Installing
 
