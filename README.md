@@ -1,5 +1,5 @@
 
-# AwqatSalah API Go Client
+# AwqatSalah API Client for Go
 
 A go client for the Awqat Salah API. 
 
